@@ -1,0 +1,39 @@
+<html>
+<head>
+<title>Day 1 Assignment</title>
+</head>
+<body>
+<script>
+            // FindIndex -- Returns index of first occurrence of said condition/element
+            var arr1=[23,76,30,98.56];
+            var index=arr1.findIndex(e=> e==30); 
+            console.log(index);                 //Output -- 2
+
+
+            var arr2=[98,20,20,67,54,90];
+            var a1=arr2.findIndex(e=> e==20); 
+            console.log(a1);                    //Output -- 1
+
+
+            // Find -- Returns value of first occurrence of said condition/element
+            var b1 = arr1.find(e=> e%10==0);     
+            console.log(b1)                     //Output -- 30
+
+
+            var array = [1,2,3,4,5,6,7,8]
+            var f2 = array.find(e=> e%2==0);    
+            console.log(f2)                     //Output -- 2
+
+
+            //Filter -- Returns an array satisfying mentioned condition
+            var filtervar = array.filter(e=>e%4==0)
+            console.log(filtervar);                   //Output -- 4,8
+
+
+            var filtervar1= array.filter(e=>e%2!=0)
+            console.log(filtervar1);                  //Output -- 1,3,5,7
+</script>
+
+</body>
+
+</html>
