@@ -224,3 +224,9 @@ function App8() {
 //export default App6;
 //export default App7;
 export default App8;
+
+//Key is a special string attribute you need to include when creating lists.  
+
+//Keys are used to identify items in the list that are changed, updated, or deleted and they are used to give an identity to the elements.
+
+
