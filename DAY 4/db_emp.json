@@ -1,0 +1,46 @@
+{
+  "depts": [
+    {
+      "empno": 1,
+      "ename": "Anshita",
+      "job": "Dev1",
+      "sal": 25000,
+      "deptno": "34"
+    },
+    {
+      "empno": 2,
+      "ename": "Snigdha",
+      "job": "Dev2",
+      "sal": 25000,
+      "deptno": "44"
+    },
+    {
+      "empno": 3,
+      "ename": "Meetha",
+      "job": "Dev3",
+      "sal": 25000,
+      "deptno": "52"
+    },
+    {
+      "empno": 4,
+      "ename": "Deepika",
+      "job": "Dev3",
+      "sal": 25000,
+      "deptno": "56"
+    },
+    {
+      "empno": "5",
+      "ename": "hello",
+      "job": "intern",
+      "sal": "100000",
+      "deptno": "23"
+    },
+    {
+      "empno": "23",
+      "ename": "ndk",
+      "job": "ndfsjk",
+      "sal": " 3443",
+      "deptno": "21"
+    }
+  ]
+}
