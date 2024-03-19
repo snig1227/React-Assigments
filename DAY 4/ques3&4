@@ -1,0 +1,5 @@
+question 3: 
+axios.get('security_token,{headers:{'Authorization':`Bearer ${token}`}})
+
+question 4: 
+A class component can be created using the class syntax in React.js class Clas1s extends Component1{ }
